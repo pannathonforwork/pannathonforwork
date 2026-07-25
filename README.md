@@ -112,6 +112,13 @@ Seeking an Internship in
 
 # 📫 Contact
 
-📧 pannathon.forwork@gmail.com
+📧 Email
+pannathon.forwork@gmail.com
 
-📍 Kalasin,Thailand
+📱 Phone
++66 96 178 1918
+
+📍 Location
+Kalasin, Thailand
+
+💼 Open to Internship Opportunities
