@@ -1,44 +1,103 @@
-# Hi there! 👋
+<h1 align="center">Hi 👋 I'm Pannathon Weruwannai</h1>
 
-I'm Pannathon Weruwannai.
+<h3 align="center">
+Final-year Digital Business & Information Systems Student
+</h3>
 
-🎓 Final-year student in Digital Business and Information Systems (DBIS)
+<p align="center">
+Passionate about AI, Workflow Automation, Data Analytics, and Business Systems.
+</p>
 
-## 🌱 About Me
+---
 
-- 💻 Interested in AI & Workflow Automation
-- 📊 Learning Data Analytics & Business Intelligence
-- 🗄️ SQL & Database Management
+## 👩‍💻 About Me
+
+- 🎓 Final-year student in Digital Business & Information Systems
+- 🤖 Interested in Artificial Intelligence & Workflow Automation
+- 📊 Passionate about Data Analytics and Business Intelligence
 - 🎨 UI/UX Design with Figma
-- 📈 Power BI Dashboard Development
-- 🌐 Basic PHP & Web Development
+- 🌐 Learning Web Development and Database Management
+- 💼 Currently preparing for Internship opportunities
 
-## 🛠 Tech Stack
+---
 
-- SQL
-- MySQL
+## 🛠 Skills
+
+### Programming
+
 - PHP
-- HTML/CSS
+- SQL
+- HTML
+- CSS
+
+### Database
+
+- MySQL
+- phpMyAdmin
+
+### Data Analytics
+
 - Power BI
+- Excel
+- Google Sheets
+
+### Design
+
 - Figma
+- Canva
+
+### Workflow
+
+- n8n
 - Git
 - GitHub
-- n8n
+
+---
+
+## 📚 Currently Learning
+
+- Artificial Intelligence
+- Workflow Automation
+- Business Intelligence
+- ERP Systems
+- Data Visualization
+
+---
 
 ## 📂 Featured Projects
 
-### Internship Readiness Assessment System
-AI-assisted prototype for assessing internship readiness using Workflow Automation.
+### 🤖 Internship Readiness Assessment System
 
-### Rewear App
-UI/UX Prototype designed with Figma for sustainable fashion.
+AI-assisted prototype for evaluating internship readiness using Workflow Automation.
 
-### ERP Business Process Analysis
+---
+
+### 👕 Rewear Application
+
+UI/UX Prototype developed in Figma for sustainable fashion.
+
+---
+
+### 📊 Power BI Dashboard
+
+Interactive dashboards for business analysis and decision making.
+
+---
+
+### 🏢 ERP Business Process
+
 Business process analysis and ERP implementation planning for SMEs.
 
-### Power BI Dashboard
-Interactive dashboards for business data visualization.
+---
+
+### 🗄 SQL Practice
+
+SQL Queries, Database Design, Views, Procedures and Joins.
+
+---
 
 ## 📫 Contact
 
-Email: pannathon.forwork@gmail.com
+📧 Email: pannathon.forwork@gmail.com
+
+🌏 Kalasin,Thailand
