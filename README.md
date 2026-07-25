@@ -1,32 +1,33 @@
 <h1 align="center">Hi 👋 I'm Pannathon Weruwannai</h1>
 
-<h3 align="center">
-Final-year Digital Business & Information Systems Student
-</h3>
+<p align="center">
+🎓 Final-year Digital Business & Information Systems Student
+</p>
 
 <p align="center">
-Passionate about AI, Workflow Automation, Data Analytics, and Business Systems.
+Passionate about AI, Workflow Automation, Data Analytics and Business Systems
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 Final-year student in Digital Business & Information Systems
-- 🤖 Interested in Artificial Intelligence & Workflow Automation
-- 📊 Passionate about Data Analytics and Business Intelligence
-- 🎨 UI/UX Design with Figma
-- 🌐 Learning Web Development and Database Management
-- 💼 Currently preparing for Internship opportunities
+- 🎓 Final-year DBIS Student
+- 🤖 Interested in Artificial Intelligence
+- ⚙️ Learning Workflow Automation with n8n
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 🗄️ Strong interest in Database Management
+- 🎨 UI/UX Design using Figma
+- 🌱 Currently preparing for Internship opportunities
 
 ---
 
-## 🛠 Skills
+# 🛠 Tech Stack
 
-### Programming
+### Languages
 
-- PHP
 - SQL
+- PHP
 - HTML
 - CSS
 
@@ -39,65 +40,78 @@ Passionate about AI, Workflow Automation, Data Analytics, and Business Systems.
 
 - Power BI
 - Excel
-- Google Sheets
 
 ### Design
 
 - Figma
 - Canva
 
-### Workflow
+### Workflow Automation
 
 - n8n
+- Google Sheets
 - Git
 - GitHub
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - Artificial Intelligence
-- Workflow Automation
 - Business Intelligence
+- Workflow Automation
 - ERP Systems
 - Data Visualization
+- System Analysis
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🤖 Internship Readiness Assessment System
+## 🤖 Internship Readiness Assessment System
 
-AI-assisted prototype for evaluating internship readiness using Workflow Automation.
-
----
-
-### 👕 Rewear Application
-
-UI/UX Prototype developed in Figma for sustainable fashion.
+Developing an AI-assisted internship readiness assessment prototype using Workflow Automation.
 
 ---
 
-### 📊 Power BI Dashboard
+## 👕 Rewear App
 
-Interactive dashboards for business analysis and decision making.
-
----
-
-### 🏢 ERP Business Process
-
-Business process analysis and ERP implementation planning for SMEs.
+Designed a UI/UX prototype for a sustainable fashion application using Figma.
 
 ---
 
-### 🗄 SQL Practice
+## 📊 Power BI Dashboard
 
-SQL Queries, Database Design, Views, Procedures and Joins.
+Created interactive dashboards for business reporting and decision support.
 
 ---
 
-## 📫 Contact
+## 🏢 ERP Business Analysis
 
-📧 Email: pannathon.forwork@gmail.com
+Analyzed business processes and compared ERP solutions for SMEs.
 
-🌏 Kalasin,Thailand
+---
+
+## 🗄 SQL Practice
+
+Database design, SQL queries, Joins, Views and Procedures.
+
+---
+
+# 🎯 Career Goal
+
+Seeking an Internship in
+
+- Business Analyst
+- System Analyst
+- Data Analyst
+- Business Intelligence
+- IT Support
+
+---
+
+# 📫 Contact
+
+📧 pannathon.forwork@gmail.com
+
+📍 Kalasin,Thailand
