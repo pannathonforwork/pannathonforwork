@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋 I'm Pannathon Weruwannai</h1>
 
-<p align="center">
-🎓 Final-year Digital Business & Information Systems Student
-</p>
 
 <p align="center">
 Passionate about AI, Workflow Automation, Data Analytics and Business Systems
@@ -10,15 +7,14 @@ Passionate about AI, Workflow Automation, Data Analytics and Business Systems
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Final-year DBIS Student
-- 🤖 Interested in Artificial Intelligence
-- ⚙️ Learning Workflow Automation with n8n
-- 📊 Passionate about Data Analytics & Business Intelligence
-- 🗄️ Strong interest in Database Management
-- 🎨 UI/UX Design using Figma
-- 🌱 Currently preparing for Internship opportunities
+- 🎓 Final-year **DBIS** (Digital Business Information Systems) Student
+- 📊 Passionate about **Data Analytics, Business Intelligence & Systems Analysis**
+- 🎨 Skilled in **UX/UI Design & Wireframing** using Figma
+- ⚙️ Exploring **Workflow Automation (n8n)** & **Artificial Intelligence (AI/LLMs)**
+- 🗄️ Experienced in **Database Management & SQL**
+- 🌱 Actively seeking **Internship Opportunities**
 
 ---
 
@@ -72,14 +68,12 @@ Passionate about AI, Workflow Automation, Data Analytics and Business Systems
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning & Exploring
 
-- Artificial Intelligence
-- Business Intelligence
-- Workflow Automation
-- ERP Systems
-- Data Visualization
-- System Analysis
+* 🤖 **AI & LLM Applications** (Prompt Engineering, OpenAI APIs, AI Agents)
+* ⚡ **Advanced Workflow Automation** (n8n, Webhooks & API Integration)
+* 🎨 **UI/UX Design Systems** (Figma Components, Interactive Prototyping)
+* 💼 **Enterprise Systems** (ERP Architecture & Business Process Modeling)
 
 ---
 
