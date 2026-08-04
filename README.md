@@ -119,12 +119,11 @@ Database design, SQL queries, Joins, Views and Procedures.
 
 Seeking Internship Opportunities in:
 
-![](https://img.shields.io/badge/Role-Business_Analyst-007ACC?style=flat-square)
-![](https://img.shields.io/badge/Role-System_Analyst-007ACC?style=flat-square)
-![](https://img.shields.io/badge/Role-Data_Analyst-007ACC?style=flat-square)
-![](https://img.shields.io/badge/Role-UX%2FUI_Designer-FF69B4?style=flat-square)
-![](https://img.shields.io/badge/Role-IT_Support-6c757d?style=flat-square)
-
+![](https://img.shields.io/badge/Business_Analyst-007ACC?style=for-the-badge)
+![](https://img.shields.io/badge/System_Analyst-007ACC?style=for-the-badge)
+![](https://img.shields.io/badge/Data_Analyst-007ACC?style=for-the-badge)
+![](https://img.shields.io/badge/UX%2FUI_Designer-FF69B4?style=for-the-badge)
+![](https://img.shields.io/badge/IT_Support-6c757d?style=for-the-badge)
 ---
 
 # 📫 Contact
