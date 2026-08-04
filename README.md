@@ -9,7 +9,7 @@ Passionate about AI, Workflow Automation, Data Analytics and Business Systems
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year **DBIS** (Digital Business Information Systems) Student
+- 🎓 Final-year **DBIS** (Digital Business and Information Systems) Student
 - 📊 Passionate about **Data Analytics, Business Intelligence & Systems Analysis**
 - 🎨 Skilled in **UX/UI Design & Wireframing** using Figma
 - ⚙️ Exploring **Workflow Automation (n8n)** & **Artificial Intelligence (AI/LLMs)**
