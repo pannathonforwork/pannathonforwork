@@ -115,15 +115,15 @@ Database design, SQL queries, Joins, Views and Procedures.
 
 ---
 
-# 🎯 Career Goal
+## 🎯 Career Goal
 
-Seeking an Internship in
+Seeking Internship Opportunities in:
 
-- Business Analyst
-- System Analyst
-- Data Analyst
-- Business Intelligence
-- IT Support
+![](https://img.shields.io/badge/Role-Business_Analyst-007ACC?style=flat-square)
+![](https://img.shields.io/badge/Role-System_Analyst-007ACC?style=flat-square)
+![](https://img.shields.io/badge/Role-Data_Analyst-007ACC?style=flat-square)
+![](https://img.shields.io/badge/Role-UX%2FUI_Designer-FF69B4?style=flat-square)
+![](https://img.shields.io/badge/Role-IT_Support-6c757d?style=flat-square)
 
 ---
 
