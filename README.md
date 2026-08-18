@@ -109,6 +109,15 @@ Database design, SQL queries, Joins, Views and Procedures.
 
 ---
 
+### 🌏 Extracurricular & International Experience
+
+- **Cultural & Academic Exchange Student** @ *Guangxi Minzu University (广西民族大学), China* <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="18" height="18" valign="middle">
+  - Participated in cross-cultural workshops, language immersion, and collaborative classroom activities.
+  - Enhanced adaptability, global mindset, and cross-cultural communication skills. 
+  - 📸 [[View Photos & Full Details ↗️]](https://github.com/pannathonforwork/guangxi-exchange-program)
+
+---
+
 ## 🎯 Career Goal
 
 Seeking Internship Opportunities in:
