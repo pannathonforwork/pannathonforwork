@@ -133,6 +133,14 @@ Passionate about AI, Workflow Automation, Data Analytics and Business Systems
 
 ---
 
+## 📜 Certificates & Credentials
+<p align="center">
+  <a href="https://github.com/pannathonforwork/certificates">
+    <img src="https://img.shields.io/badge/🏆_View_All_Certificates_%26_Licenses-Click_Here_To_View-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="View Certificates" />
+  </a>
+</p>
+
+* 📂🎓 **Verified Credentials:** Online courses, professional workshops, data analytics certificates, and academic achievements.
 
 ## 🎯 Career Goal
 
